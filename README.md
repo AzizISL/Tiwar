@@ -4,7 +4,7 @@ TIWAR BOT (БИТВА ТИТАНОВ БОТ)
 ### Installing
 
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ## Run Bot
