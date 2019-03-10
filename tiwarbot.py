@@ -31,12 +31,12 @@ while loop < 100000:
 
 	#Login
 	login_field = browser.find_element_by_name('login')
-	login_field.send_keys('osmanus')
+	login_field.send_keys('YOUR USERNAME')
 	print('Login Success')
 
 	#Password
 	login_field = browser.find_element_by_name('pass')
-	login_field.send_keys('lara123')
+	login_field.send_keys('YOUR PASSWORD')
 	print('Password Success')
 
 	#Log In
