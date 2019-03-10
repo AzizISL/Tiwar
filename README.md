@@ -18,3 +18,8 @@ login_field.send_keys('YOUR PASSWORD')
 ```
 python tiwarbot.py
 ```
+
+
+## DONATION
+
+https://www.donationalerts.com/r/brossbeatz
