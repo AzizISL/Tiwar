@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
 
-print("TiWaR Bot v. 1.0.2")
+print("TiWaR Bot v. 1.0.2 By AzizISL")
 
 
 #Importing
